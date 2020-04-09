@@ -1,2 +1,2 @@
-# wizualizacja-danych
-Zajęcia z wizualizacji danych
+Wizualizacja Danych
+Nr. indeksu: 158742
